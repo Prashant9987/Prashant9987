@@ -1,3 +1,6 @@
+# 💫 About Me:
+👨‍🎓 B.Tech in Computer Science & Engineering from Pranveer Singh Institute of Technology (2022-2026).<br>🌱 Passionate about Full Stack Development, AI, and Problem Solving.<br>🚀 Currently working on StudyForge-A collaborative Learning Platform.<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/prashant-singh-aa14602a1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhprashant9987@gmail.com) 
